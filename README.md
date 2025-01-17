@@ -1,6 +1,6 @@
 👋 Hi, call me Max! :)
 
-I aspire to apply data analysis and machine learning to good, altruistic causes and research. My work at the UCLA Dept. of Medicine Statistics is primarily focused on helping out the Alzheimer's Disease Research Center with a variety of analytical and programming projects. It's one of the first of many endeavors in my life involving the application of my technical skills to the general betterment of people's lives.
+I aspire to apply data analysis and machine learning to good, altruistic causes and research. My work at the **UCLA Dept. of Medicine Statistics** is primarily focused on helping out the Alzheimer's Disease Research Center with a variety of analytical and programming projects. It's one of the first of many endeavors in my life involving the application of my technical skills to the general betterment of people's lives.
 
 During my brief stay on earth, I'll do my part to leave it a happier place than I found it. To me, that means lending my abilities and knowledge to like-minded people and organizations who align with my values of good and effective altruism.
 
